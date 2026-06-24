@@ -1,0 +1,12 @@
+DrugID_A,DrugID_B,SeverityLevel,MechanismDescription,ClinicalEffect,ManagementRecommendation
+1,2,Severe,Both drugs increase bleeding risk via different pathways,Major haemorrhage; GI bleeding,Avoid combination; if essential monitor INR closely
+1,3,Severe,NSAID displaces warfarin from plasma proteins; inhibits platelets,Increased anticoagulant effect; bleeding,Avoid; prefer paracetamol for analgesia
+1,8,Severe,Clarithromycin is a CYP3A4 inhibitor and raises warfarin levels,Elevated INR; bleeding risk,Avoid combination or reduce warfarin dose under monitoring
+1,11,Moderate,Omeprazole inhibits warfarin metabolism via CYP2C19,Mildly elevated INR,Monitor INR when starting/stopping omeprazole
+1,12,Minor,High dose paracetamol may modestly elevate INR,Slight INR elevation at >2g/day chronic use,Monitor INR with prolonged paracetamol use
+1,4,Minor,Antibiotic alters gut flora producing vitamin K,Possible mild INR rise,Monitor INR if course exceeds 7 days
+2,3,Moderate,Both NSAIDs/antiplatelet - additive GI irritation,Increased risk of gastric ulcer/bleeding,Use lowest effective dose; add PPI if both required
+7,8,Contraindicated,Clarithromycin strongly inhibits CYP3A4 metabolism of simvastatin,Severe rhabdomyolysis risk,ABSOLUTE contraindication - never co-prescribe
+9,10,Severe,Additive CNS depression; serotonergic effects,Profound sedation respiratory depression,Avoid; if both required monitor in supervised setting
+6,5,Moderate,Both lower blood pressure / glucose - additive hypotension,Symptomatic hypotension; dizziness,Monitor BP regularly during titration
+3,6,Moderate,NSAID reduces antihypertensive effect of ACE inhibitors,Reduced BP control; possible kidney injury,Monitor BP and renal function; consider paracetamol
